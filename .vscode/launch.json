@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KafkaProducerExample",
+            "request": "launch",
+            "mainClass": "KafkaProducerExample",
+            "projectName": "kafka-example"
+        }
+    ]
+}
